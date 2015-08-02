@@ -1,2 +1,3 @@
 name: Your New Obraz Site
 exclude: ['env']
+include: ['CNAME']
